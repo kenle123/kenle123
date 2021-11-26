@@ -4,7 +4,6 @@
 [<img align="left" alt="Personal Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />][Website]
 [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 
-
 <br />
 
 ### Languages & Tools - 🧑‍💻 
@@ -45,8 +44,11 @@
 <br>
 
 ### My Github Stats
-<img align="left" alt="Ken Le's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kenle123&hide_border=false&show_icons=true&theme=github_dark" />
+<img align="left" alt="Ken Le's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kenle123&hide_border=false&show_icons=true&theme=github_dark" />  
 
+<br /><br /><br /><br /><br /><br /><br /><br />
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kenle123&hide=C%23%0A,shaderlab&langs_count=5&layout=compact)
 
 [Website]: https://www.kenle.me
 [linkedin]: https://www.linkedin.com/in/kenwle/
