@@ -45,7 +45,7 @@
 <br>
 
 ### My Github Stats
-<img align="left" alt="Ken Le's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kenle123&hide_border=true&show_icons=true" />
+<img align="left" alt="Ken Le's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kenle123&hide_border=true&show_icons=true&theme=github_dark" />
 
 
 [Website]: https://www.kenle.me
