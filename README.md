@@ -46,7 +46,7 @@
 ### My Github Stats
 <img align="left" alt="Ken Le's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kenle123&hide_border=false&show_icons=true&theme=github_dark" />  
 
-<br /><br /><br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br /><br /><br /><br />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kenle123&hide=C%23%0A,shaderlab&langs_count=5&layout=compact)
 
