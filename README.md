@@ -1,4 +1,4 @@
-# Hi There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" target="_blank"> I'm Ken
+# Hi There, I'm Ken <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 ### Connect With Me - 😃
 
 [<img align="left" alt="Personal Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />][Website]
